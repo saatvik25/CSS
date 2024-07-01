@@ -16,8 +16,19 @@ html,body {
 
 #id {
 
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
     background-color: aqua;
     margin: 20px 30px 40px 12px;
+    /* space between two elements */
+    /* pdding ek hi element ke andar space,imaginary border inside box  */
 }
+.main{
+ padding: 20px;
+ background-color: rgb(218, 135, 135);
+ /* margin: 20px 30px 40px 12px;  */
+}
+
+/* position in this relative ,absolute -> absolute the container upaar uth jta hai aur neech wale continer neche rehre hai 
+for more see https://www.youtube.com/watch?v=K1naz9wBwKU */
+
