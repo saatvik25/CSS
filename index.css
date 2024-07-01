@@ -12,3 +12,12 @@ html,body {
 
 /* dot for class */
 /* # for id  */
+/* if we want large distance relative to screen use % esle use px for lex distance/ */
+
+#id {
+
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 20px 30px 40px 12px;
+}
