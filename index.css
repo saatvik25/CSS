@@ -30,7 +30,9 @@ html,body {
 }
 
 /* position in this relative ,absolute -> absolute the container upaar uth jta hai aur neech wale continer neche rehre hai 
-for more see https://www.youtube.com/watch?v=K1naz9wBwKU */
+for more see https://www.youtube.com/watch?v=K1naz9wBwKU 
+position relative mei we have to mention ,kisko hum relative kar rahe hai eg we have one big div boc and one small div boc inside big one so if we make small one absolute and move left 20% it move relative ti page but of we make big box position relative and han do than samll box move rwlative to big box*/
 
 /* align item - top se bottom walo ke liye use hota hai  height */
 /* width me kaam karne ke liye hota hai justify content */
+
